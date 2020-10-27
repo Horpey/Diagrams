@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T22:58:36.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.5" etag="BGQw2NbAMCixOA238q8-" type="github"><diagram id="lwfCkjQBwBWq7-e7ouw2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-27T23:01:57.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="t3wLXUtKkzE_JlSaBOSf" version="13.8.5" type="github">
+  <diagram id="lwfCkjQBwBWq7-e7ouw2" name="Page-1">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5f2JP45fePyM-ge_R3wD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-1" target="5f2JP45fePyM-ge_R3wD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-1" value="Program script or concept" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-3" target="5f2JP45fePyM-ge_R3wD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-3" value="Program Goals" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-5" target="5f2JP45fePyM-ge_R3wD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-5" value="Outline / Flow Chart" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-7" target="5f2JP45fePyM-ge_R3wD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-7" value="Storyboard" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-9" target="5f2JP45fePyM-ge_R3wD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-9" value="Prepare Scripts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f2JP45fePyM-ge_R3wD-11" target="5f2JP45fePyM-ge_R3wD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-11" value="Audio &amp;amp; Video Production planning" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5f2JP45fePyM-ge_R3wD-13" value="Prepare project timelines and budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
